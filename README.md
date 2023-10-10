@@ -1,8 +1,11 @@
 # why.nvim is good config?
 ## It's a very bad config!! (pls don't use)
 **Hi**, I just learn and setting up neovim
+It's **Lazyvim Starter** with **some plugins**
 
 
+
+![menu](https://github.com/Campinger/whyVim/assets/85894516/9f403135-d079-4b10-b252-6b3f849cab8f)
 
 
 
@@ -52,3 +55,4 @@ remove **.git** folder - `rm -rf ~/.config/nvim/.git`
 # Enjoy
 Ok, we are install this config, what's next? Idk, lol
 
+![conf](https://github.com/Campinger/whyVim/assets/85894516/7259f7bc-24ec-40be-9a04-d9a7883452e0)
