@@ -42,14 +42,13 @@ And Start nvim!
 
 
 Linux:
-`mv ~/.config/nvim{,.bak}
+Backup current nvim config - `mv ~/.config/nvim{,.bak}
 mv ~/.local/share/nvim{,.bak}
 mv ~/.local/state/nvim{,.bak}
 mv ~/.cache/nvim{,.bak}`
-- Backup current nvim config
-`git clone https://github.com/Campinger/whyVim ~/.config/nvim` - install this configuration
-`rm -rf ~/.config/nvim/.git` - remove **.git** folder
+install this configuration - `git clone https://github.com/Campinger/whyVim ~/.config/nvim`
+remove **.git** folder - `rm -rf ~/.config/nvim/.git`
 
-#Enjoy
+# Enjoy
 Ok, we are install this config, what's next? Idk, lol
 
